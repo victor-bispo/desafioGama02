@@ -21,8 +21,8 @@ Foi desenvolvido uma interface como os botões de cadastro para cliente e produt
 
 ## Links de acesso
 
- Github: 
+ Github: https://github.com/victor-bispo/desafioGama02
 
- Acesso da página: 
+ Acesso da página: https://cadastro-gama.netlify.app/
 
 
